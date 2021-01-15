@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prova_Write", "Prova_Write.vcxproj", "{D5D501C7-78BD-46A1-82C0-C501B331BFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D501C7-78BD-46A1-82C0-C501B331BFD3}.Debug|x64.ActiveCfg = Debug|x64
+		{D5D501C7-78BD-46A1-82C0-C501B331BFD3}.Debug|x64.Build.0 = Debug|x64
+		{D5D501C7-78BD-46A1-82C0-C501B331BFD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5D501C7-78BD-46A1-82C0-C501B331BFD3}.Debug|x86.Build.0 = Debug|Win32
+		{D5D501C7-78BD-46A1-82C0-C501B331BFD3}.Release|x64.ActiveCfg = Release|x64
+		{D5D501C7-78BD-46A1-82C0-C501B331BFD3}.Release|x64.Build.0 = Release|x64
+		{D5D501C7-78BD-46A1-82C0-C501B331BFD3}.Release|x86.ActiveCfg = Release|Win32
+		{D5D501C7-78BD-46A1-82C0-C501B331BFD3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD694760-4669-457B-9C7A-831E650810A3}
+	EndGlobalSection
+EndGlobal

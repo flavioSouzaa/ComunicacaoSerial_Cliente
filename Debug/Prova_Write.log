@@ -1,0 +1,6 @@
+﻿  Protocolo.cpp
+d:\c++\prova_write\protocolo.cpp(22): warning C4305: '=': truncamento de 'int' para 'char'
+d:\c++\prova_write\protocolo.cpp(22): warning C4309: '=': truncamento de valor constante
+d:\c++\prova_write\protocolo.cpp(17): warning C4101: 'bufferCrc16': variável local não referenciada
+d:\c++\prova_write\protocolo.cpp(18): warning C4101: 'sizeCRC16': variável local não referenciada
+  Prova_Write.vcxproj -> D:\C++\Prova_Write\Debug\Prova_Write.exe
